@@ -20,7 +20,7 @@
 
 # Let's Start!
 
-## <a href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/vue.png?raw=true" width="22" hieght="22" alt="Vue logo"/></a> 1. Vue
+## <a href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/vue.png?raw=true" width="30" hieght="30" alt="Vue logo"/></a> 1. Vue
 
 Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable. Vue can also function as a web application framework capable of powering advanced single-page applications.
 
