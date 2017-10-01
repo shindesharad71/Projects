@@ -79,4 +79,8 @@ Node.js is an open-source, cross-platform JavaScript run-time environment for ex
 Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
 
 ### :octocat: ```Projects in Ionic 3```
+
+:one: Ionic Firebase Shopping List - <a href="https://github.com/shindesharad71/Ionic-Firebase-Shopping-List" target="_blank">Code</a>
+
+:two: Ionic GitHub Profile Info - <a href="https://github.com/shindesharad71/Ionic-GitHub-Profile-Info" target="_blank">Code</a>
 ###### Resources & Information Added From Wikipedia.
