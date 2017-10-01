@@ -17,7 +17,6 @@
 8. [HTML5 & CSS3](#8-html5-css3)  
 9. [Static Site Generator Demos](#9-static-site-generator-demos)  
 10. [Others](#10-others) 
--------------------------
 
 # Let's Start!
 
