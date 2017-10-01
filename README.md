@@ -40,7 +40,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 :seven: Vue Components Communication - <a href="https://github.com/shindesharad71/Vue-Components-Communication" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Vue-Components-Communication/#/" target="_blank">Live Demo</a> 
 
-## 2. React
+## <a id="2-react" href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/react.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 2. React
 
 In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces.
 
@@ -60,7 +60,7 @@ React allows developers to create large web-applications that use data and can c
 
 :five: React Redux Simple Strarter - <a href="https://github.com/shindesharad71/React-Redux-Simple-Starter" target="_blank">Code</a>
 
-## 3. Angular
+## <a id="3-angular" href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/angular.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 3. Angular
 
 Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS.
 
