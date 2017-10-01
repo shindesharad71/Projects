@@ -64,6 +64,10 @@ React allows developers to create large web-applications that use data and can c
 
 Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS.
 
+### :octocat: ```Projects in Angular```
+
+:one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+
 ## 4. Node JS
 
 Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML, to be run client-side by a JavaScript engine in the user's web browser. Node.js enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. 
