@@ -17,4 +17,10 @@
 8. [HTML5 & CSS3](#8-html5-css3)  
 9. [Static Site Generator Demos](#9-static-site-generator-demos)  
 10. [Others](#10-others) 
+-------------------------
 
+# Let's Start!
+
+## 1. Vue
+
+I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
