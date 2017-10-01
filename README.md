@@ -68,13 +68,15 @@ Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-ba
 
 :one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
 
-## 4. Node JS
+## <a id="4-node-js" href="#4-node-js"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/node.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 4. Node JS
 
 Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML, to be run client-side by a JavaScript engine in the user's web browser. Node.js enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. 
 
-## 5. Ionic 3
+### :octocat: ```Projects in Node JS```
+
+## <a id="5-ionic-3" href="#5-ionic-3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/ionic.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 5. Ionic 3
 
 Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
 
-
+### :octocat: ```Projects in Ionic 3```
 ###### Resources & Information Added From Wikipedia.
