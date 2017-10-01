@@ -22,21 +22,27 @@
 
 ## 1. Vue
 
-I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable. Vue can also function as a web application framework capable of powering advanced single-page applications.
 
 ## 2. React
 
-I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces.
+
+It is maintained by Facebook, Instagram and a community of individual developers and corporations.
+
+React allows developers to create large web-applications that use data and can change over time without reloading the page. It aims primarily to provide speed, simplicity, and scalability. React processes only user interfaces in applications. This corresponds to View in the Model-View-Controller (MVC) pattern, and can be used in combination with other JavaScript libraries or frameworks in MVC, such as AngularJS.
 
 ## 3. Angular
 
-I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS.
 
 ## 4. Node JS
 
-I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML, to be run client-side by a JavaScript engine in the user's web browser. Node.js enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. 
 
 ## 5. Ionic 3
 
-I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
 
+
+###### Resources & Information Added From Wikipedia.
