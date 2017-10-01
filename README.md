@@ -18,6 +18,7 @@
 9. [Static Site Generator Demos](#9-static-site-generator-demos)  
 10. [Others](#10-others) 
 
+
 # Let's Start!
 
 ## <a id="1-vue" href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/vue.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 1. Vue
@@ -40,6 +41,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 :seven: Vue Components Communication - <a href="https://github.com/shindesharad71/Vue-Components-Communication" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Vue-Components-Communication/#/" target="_blank">Live Demo</a> 
 
+
 ## <a id="2-react" href="#2-react"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/react.png?raw=true" width="40" hieght="40" alt="React logo"/></a> 2. React
 
 In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces.
@@ -60,6 +62,7 @@ React allows developers to create large web-applications that use data and can c
 
 :five: React Redux Simple Strarter - <a href="https://github.com/shindesharad71/React-Redux-Simple-Starter" target="_blank">Code</a>
 
+
 ## <a id="3-angular" href="#3-angular"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/angular.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 3. Angular
 
 Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS.
@@ -67,6 +70,7 @@ Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-ba
 ### :octocat: ```Projects in Angular```
 
 :one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+
 
 ## <a id="4-node-js" href="#4-node-js"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/node.png?raw=true" width="40" hieght="40" alt="Node logo"/></a> 4. Node JS
 
@@ -86,6 +90,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment for ex
 
 :six: Simple Contact Form With NodeJS - <a href="https://github.com/shindesharad71/Simple-NodeJS-Contact-Form" target="_blank">Code</a> | <a href="https://salty-depths-44318.herokuapp.com/" target="_blank">Live Demo</a> 
 
+
 ## <a id="5-ionic-3" href="#5-ionic-3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/ionic.png?raw=true" width="40" hieght="40" alt="ionic logo"/></a> 5. Ionic 3
 
 Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
@@ -96,6 +101,7 @@ Ionic is a complete open-source SDK for hybrid mobile app development. The origi
 
 :two: Ionic GitHub Profile Info - <a href="https://github.com/shindesharad71/Ionic-GitHub-Profile-Info" target="_blank">Code</a>
 
+
 ## <a id="6-php-mysql" href="#6-php-mysql"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/php.png?raw=true" width="40" hieght="40" alt="PHP logo"/></a> 6. PHP & MySQL
 
 PHP is a server-side scripting language designed primarily for web development but also used as a general-purpose programming language. Originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Development Team. PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.
@@ -103,5 +109,6 @@ PHP is a server-side scripting language designed primarily for web development b
 ### :octocat: ```Projects in PHP & MySQL```
 
 :one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+
 
 ###### Resources & Information Added From Wikipedia.
