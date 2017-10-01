@@ -24,7 +24,7 @@
 
 Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable. Vue can also function as a web application framework capable of powering advanced single-page applications.
 
-### ```Projects in Vue```
+### :octocat: ```Projects in Vue```
 
 :one: Monster Slayer Game - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Monster-Game-Vuejs-Starter/" target="_blank">Live Demo</a>  
 
@@ -48,7 +48,7 @@ It is maintained by Facebook, Instagram and a community of individual developers
 
 React allows developers to create large web-applications that use data and can change over time without reloading the page. It aims primarily to provide speed, simplicity, and scalability. React processes only user interfaces in applications. This corresponds to View in the Model-View-Controller (MVC) pattern, and can be used in combination with other JavaScript libraries or frameworks in MVC, such as AngularJS.
 
-### ```Projects in React```
+### :octocat: ```Projects in React```
 
 :one: YouTube With ReactJS - <a href="https://github.com/shindesharad71/Youtube-With-ReactJS" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Youtube-With-ReactJS/" target="_blank">Live Demo</a>  
 
