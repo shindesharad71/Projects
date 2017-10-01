@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/>
+  <a href="#" style="cursor: none;"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/></a>
 </p>
 
 ![Open Source Contribution - Sharad Shinde](https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true)
