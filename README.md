@@ -40,7 +40,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 :seven: Vue Components Communication - <a href="https://github.com/shindesharad71/Vue-Components-Communication" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Vue-Components-Communication/#/" target="_blank">Live Demo</a> 
 
-<br><br>
+<br>
 
 ## <a id="2-react" href="#2-react"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/react.png?raw=true" width="40" hieght="40" alt="React logo"/></a> 2. React
 
@@ -62,7 +62,7 @@ React allows developers to create large web-applications that use data and can c
 
 :five: React Redux Simple Strarter - <a href="https://github.com/shindesharad71/React-Redux-Simple-Starter" target="_blank">Code</a>
 
-<br><br>
+<br>
 
 ## <a id="3-angular" href="#3-angular"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/angular.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 3. Angular
 
@@ -72,7 +72,7 @@ Angular (commonly referred to as "Angular 2+" or "Angular 2") is a TypeScript-ba
 
 :one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
 
-<br><br>
+<br>
 
 ## <a id="4-node-js" href="#4-node-js"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/node.png?raw=true" width="40" hieght="40" alt="Node logo"/></a> 4. Node JS
 
@@ -92,7 +92,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment for ex
 
 :six: Simple Contact Form With NodeJS - <a href="https://github.com/shindesharad71/Simple-NodeJS-Contact-Form" target="_blank">Code</a> | <a href="https://salty-depths-44318.herokuapp.com/" target="_blank">Live Demo</a> 
 
-<br><br>
+<br>
 
 ## <a id="5-ionic-3" href="#5-ionic-3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/ionic.png?raw=true" width="40" hieght="40" alt="ionic logo"/></a> 5. Ionic 3
 
@@ -104,7 +104,7 @@ Ionic is a complete open-source SDK for hybrid mobile app development. The origi
 
 :two: Ionic GitHub Profile Info - <a href="https://github.com/shindesharad71/Ionic-GitHub-Profile-Info" target="_blank">Code</a>
 
-<br><br>
+<br>
 
 ## <a id="6-php-mysql" href="#6-php-mysql"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/php.png?raw=true" width="40" hieght="40" alt="PHP logo"/></a> 6. PHP & MySQL
 
@@ -114,6 +114,6 @@ PHP is a server-side scripting language designed primarily for web development b
 
 :one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
 
-<br><br>
+<br>
 
 ###### Resources & Information Added From Wikipedia.
