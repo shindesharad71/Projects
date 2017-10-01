@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="#" style="cursor: none;"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/></a>
+  <a href="#"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/></a>
 </p>
-
-![Open Source Contribution - Sharad Shinde](https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true)
 
 
 :octocat: Collection of My All GitHub Projects :earth_asia: On One Page, It Is A Project Guide For Walk Through My Projects With It's Live Demo And Links.
