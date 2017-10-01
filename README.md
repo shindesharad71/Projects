@@ -23,3 +23,20 @@
 ## 1. Vue
 
 I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+
+## 2. React
+
+I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+
+## 3. Angular
+
+I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+
+## 4. Node JS
+
+I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+
+## 5. Ionic 3
+
+I learned Vue JS in Aug 2017. I created multiple vue js projects after learning which helped me to improve my skills in vue js.
+
