@@ -74,6 +74,18 @@ Node.js is an open-source, cross-platform JavaScript run-time environment for ex
 
 ### :octocat: ```Projects in Node JS```
 
+:one: Chat WebApp With Socket IO - <a href="https://github.com/shindesharad71/Chat-WebApplication" target="_blank">Code</a> | <a href="https://sharz-socket-chat.herokuapp.com/" target="_blank">Live Demo</a> 
+
+:two: E-learn With Node & Express - <a href="https://github.com/shindesharad71/E-learn-with-Express" target="_blank">Code</a>
+
+:three: Portfolio With Node & Express - <a href="https://github.com/shindesharad71/Portfolio-Node-Express-MySQL" target="_blank">Code</a>
+
+:four: Blog With NodeJS - <a href="https://github.com/shindesharad71/Node-Express-MongoDB-Blog" target="_blank">Code</a> | <a href="https://still-brushlands-63007.herokuapp.com/" target="_blank">Live Demo</a> 
+
+:five: Register & Login With NodeJS - <a href="https://github.com/shindesharad71/NodeJS-Register-Login-Authentication" target="_blank">Code</a> | <a href="https://pumpkin-pie-94714.herokuapp.com/users/login" target="_blank">Live Demo</a> 
+
+:six: Simple Contact Form With NodeJS - <a href="https://github.com/shindesharad71/Simple-NodeJS-Contact-Form" target="_blank">Code</a> | <a href="https://salty-depths-44318.herokuapp.com/" target="_blank">Live Demo</a> 
+
 ## <a id="5-ionic-3" href="#5-ionic-3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/ionic.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 5. Ionic 3
 
 Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
