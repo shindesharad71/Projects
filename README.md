@@ -18,7 +18,6 @@
 9. [Static Site Generator Demos](#9-static-site-generator-demos)  
 10. [Others](#10-others) 
 
-
 # Let's Start!
 
 ## <a id="1-vue" href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/vue.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 1. Vue
@@ -41,7 +40,6 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 :seven: Vue Components Communication - <a href="https://github.com/shindesharad71/Vue-Components-Communication" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Vue-Components-Communication/#/" target="_blank">Live Demo</a> 
 
-
 ## <a id="2-react" href="#2-react"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/react.png?raw=true" width="40" hieght="40" alt="React logo"/></a> 2. React
 
 In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces.
@@ -61,7 +59,6 @@ React allows developers to create large web-applications that use data and can c
 :four: Blog With React - <a href="https://github.com/shindesharad71/React-Blog" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/React-Blog/" target="_blank">Live Demo</a> 
 
 :five: React Redux Simple Strarter - <a href="https://github.com/shindesharad71/React-Redux-Simple-Starter" target="_blank">Code</a>
-
 
 ## <a id="3-angular" href="#3-angular"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/angular.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 3. Angular
 
@@ -90,7 +87,6 @@ Node.js is an open-source, cross-platform JavaScript run-time environment for ex
 
 :six: Simple Contact Form With NodeJS - <a href="https://github.com/shindesharad71/Simple-NodeJS-Contact-Form" target="_blank">Code</a> | <a href="https://salty-depths-44318.herokuapp.com/" target="_blank">Live Demo</a> 
 
-
 ## <a id="5-ionic-3" href="#5-ionic-3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/ionic.png?raw=true" width="40" hieght="40" alt="ionic logo"/></a> 5. Ionic 3
 
 Ionic is a complete open-source SDK for hybrid mobile app development. The original version was released in 2013 and built on top of AngularJS and Apache Cordova. The more recent releases, known as Ionic 2 or simply "Ionic", are built on Angular. Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
@@ -100,7 +96,6 @@ Ionic is a complete open-source SDK for hybrid mobile app development. The origi
 :one: Ionic Firebase Shopping List - <a href="https://github.com/shindesharad71/Ionic-Firebase-Shopping-List" target="_blank">Code</a>
 
 :two: Ionic GitHub Profile Info - <a href="https://github.com/shindesharad71/Ionic-GitHub-Profile-Info" target="_blank">Code</a>
-
 
 ## <a id="6-php-mysql" href="#6-php-mysql"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/php.png?raw=true" width="40" hieght="40" alt="PHP logo"/></a> 6. PHP & MySQL
 
