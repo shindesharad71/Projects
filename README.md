@@ -25,7 +25,7 @@
 Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable. Vue can also function as a web application framework capable of powering advanced single-page applications.
 
 ### ```Projects in Vue```
-* Monster Slayer Game - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Monster-Game-Vuejs-Starter/" target="_blank">Live Demo</a>
+:one: Monster Slayer Game - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Monster-Game-Vuejs-Starter/" target="_blank">Live Demo</a>
 
 ## 2. React
 
