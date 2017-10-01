@@ -1,5 +1,5 @@
 ![Open Source Contribution - Sharad Shinde](https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true)
-# Sharad Shinde - Open Source Projects Guide
+
 
 :octocat: Collection of My All GitHub Projects :earth_asia: On One Page, It Is A Project Guide For Walk Through My Projects With It's Live Demo And Links.
 
