@@ -30,6 +30,10 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 :two: BookAholic Internship Assingment - <a href="https://github.com/shindesharad71/BookAholic-Internship-Assignment" target="_blank">Code</a>
 
+:three: Quotes WebApp With Vue - <a href="https://github.com/shindesharad71/Quotes-WebApp-Using-Vue" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Quotes-WebApp-Using-Vue/" target="_blank">Live Demo</a> 
+
+:four: Stock Trader With Vue - <a href="https://github.com/shindesharad71/Stock-Trader-With-Vue" target="_blank">Code</a> | <a href="https://shindesharad71.github.io/Stock-Trader-With-Vue/#/" target="_blank">Live Demo</a> 
+
 ## 2. React
 
 In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces.
