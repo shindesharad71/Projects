@@ -15,8 +15,7 @@
 6. [PHP & MySQL](#6-php-mysql)  
 7. [BootSrtap](#7-bootstrap) 
 8. [HTML5 & CSS3](#8-html5-css3)  
-9. [Static Site Generator Demos](#9-static-site-generator-demos)  
-10. [Others](#10-others) 
+9. [Others](#9-others)  
 
 # Let's Start!
 
@@ -132,7 +131,7 @@ PHP is a server-side scripting language designed primarily for web development b
 
 <br>
 
-## <a id="7-bootstrap" href="#7-bootstrap"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/bootstrap.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 7. BootStrap
+## <a id="7-bootstrap" href="#7-bootstrap"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/bootstrap.png?raw=true" width="40" hieght="40" alt="bootstrap logo"/></a> 7. Bootstrap
 
 Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
 
@@ -144,7 +143,7 @@ Bootstrap is a free and open-source front-end web framework for designing websit
 
 <br>
 
-## <a id="8-html5-css3" href="#8-html5-css3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/html5.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 8. HTML5 & CSS3
+## <a id="8-html5-css3" href="#8-html5-css3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/html5.png?raw=true" width="40" hieght="40" alt="html5 logo"/></a> 8. HTML5 & CSS3
 
 HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.
 It was published in October 2014 by the World Wide Web Consortium (W3C) to improve the language with support for the latest multimedia, while keeping it both easily readable by humans and consistently understood by computers and devices such as web browsers, parsers, etc. HTML5 is intended to subsume not only HTML 4, but also XHTML 1 and DOM Level 2 HTML.
@@ -158,6 +157,16 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 :two: HTML5 Resume - <a href="https://github.com/shindesharad71/HTML-Resume" target="_blank">Code</a>
 
 :three: HTML5 Forms - <a href="https://github.com/shindesharad71/Login-Signup-Forms-Html5" target="_blank">Code</a>
+
+<br>
+
+## <a id="9-others" href="#9-others"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/static-site.png?raw=true" width="40" hieght="40" alt="logo"/></a> 9. Others
+
+I did other projects, which are in various categories. I mentioned them folllow.
+
+### :octocat: ```Other Projects```
+
+:one: Daily Ubuntu Guide - <a href="https://github.com/shindesharad71/Ubuntu-Daily" target="_blank">Code</a>
 
 <br>
 
