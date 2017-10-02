@@ -130,4 +130,27 @@ PHP is a server-side scripting language designed primarily for web development b
 
 <br>
 
+## <a id="7-bootstrap" href="#7-bootstrap"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/bootstrap.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 7. BootStrap
+
+Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
+
+### :octocat: ```Projects in BootStrap```
+
+:one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+
+<br>
+
+## <a id="8-html5-css3" href="#8-html5-css3"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/html5.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 8. HTML5 & CSS3
+
+HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.
+It was published in October 2014 by the World Wide Web Consortium (W3C) to improve the language with support for the latest multimedia, while keeping it both easily readable by humans and consistently understood by computers and devices such as web browsers, parsers, etc. HTML5 is intended to subsume not only HTML 4, but also XHTML 1 and DOM Level 2 HTML.
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
+
+### :octocat: ```Projects in HTML5 & CSS3```
+
+:one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+
+<br>
+
 ###### Resources & Information Added From Wikipedia.
