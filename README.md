@@ -112,7 +112,21 @@ PHP is a server-side scripting language designed primarily for web development b
 
 ### :octocat: ```Projects in PHP & MySQL```
 
-:one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+:one: RESTful API With SlimPHP - <a href="https://github.com/shindesharad71/RESTful-Slim-API" target="_blank">Code</a>
+
+:two: IMDB Movie API PHP - <a href="https://github.com/shindesharad71/IMDB-Movie-API-PHP" target="_blank">Code</a>
+
+:three: OAuth Google Facebook With PHP - <a href="https://github.com/shindesharad71/OAuth-Google-Facebook-PHP" target="_blank">Code</a>
+
+:four: Club Manager - <a href="https://github.com/shindesharad71/Club-Manager" target="_blank">Code</a>
+
+:five: CRUD With AJAX PHP - <a href="https://github.com/shindesharad71/CRUD-PHP-JQuery-AJAX" target="_blank">Code</a>
+
+:six: AnguarJS PHP CRUD Opration - <a href="https://github.com/shindesharad71/Angular-PHP-CRUD-Oprations" target="_blank">Code</a>
+
+:seven: Account Registration & Verification PHP - <a href="https://github.com/shindesharad71/Account-Registration-Verification-in-PHP" target="_blank">Code</a>
+
+:eight: Profile Module PHP - <a href="https://github.com/shindesharad71/Profile-Module-PHP" target="_blank">Code</a>
 
 <br>
 
