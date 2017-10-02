@@ -153,7 +153,11 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 ### :octocat: ```Projects in HTML5 & CSS3```
 
-:one: Angular Recipe Book - <a href="https://github.com/shindesharad71/Angular-Recipe-Book" target="_blank">Code</a>
+:one: Google Allo Chat UI - <a href="https://github.com/shindesharad71/Google-Allo-Chat-UI" target="_blank">Code</a>
+
+:two: HTML5 Resume - <a href="https://github.com/shindesharad71/HTML-Resume" target="_blank">Code</a>
+
+:three: HTML5 Forms - <a href="https://github.com/shindesharad71/Login-Signup-Forms-Html5" target="_blank">Code</a>
 
 <br>
 
