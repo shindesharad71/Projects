@@ -128,6 +128,8 @@ PHP is a server-side scripting language designed primarily for web development b
 
 :eight: Profile Module PHP - <a href="https://github.com/shindesharad71/Profile-Module-PHP" target="_blank">Code</a>
 
+:nine: DigiWord Blogging Platform - <a href="https://github.com/shindesharad71/DigiWord" target="_blank">Code</a>
+
 <br>
 
 ## <a id="7-bootstrap" href="#7-bootstrap"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/bootstrap.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 7. BootStrap
