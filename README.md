@@ -158,6 +158,8 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 :three: HTML5 Forms - <a href="https://github.com/shindesharad71/Login-Signup-Forms-Html5" target="_blank">Code</a>
 
+:four: The Slider - <a href="https://github.com/shindesharad71/The-Slider" target="_blank">Code</a>
+
 <br>
 
 ## <a id="9-others" href="#9-others"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/static-site.png?raw=true" width="40" hieght="40" alt="logo"/></a> 9. Others
