@@ -16,8 +16,8 @@
 7. [BootSrtap](#7-bootstrap) 
 8. [HTML5 & CSS3](#8-html5-css3)  
 9. [Others](#9-others) 
-10. [Others](#10-Python)  
-11. [Others](#11-Flutter)
+10. [Python](#10-Python)  
+11. [Flutter](#11-Flutter)
 
 # Let's Start!
 
