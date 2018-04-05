@@ -15,7 +15,9 @@
 6. [PHP & MySQL](#6-php-mysql)  
 7. [BootSrtap](#7-bootstrap) 
 8. [HTML5 & CSS3](#8-html5-css3)  
-9. [Others](#9-others)  
+9. [Others](#9-others) 
+10. [Others](#10-Python)  
+11. [Others](#11-Flutter)
 
 # Let's Start!
 
