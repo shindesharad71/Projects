@@ -172,6 +172,8 @@ I did other projects, which are in various categories. I mentioned them folllow.
 
 :one: Daily Ubuntu Guide - <a href="https://github.com/shindesharad71/Ubuntu-Daily" target="_blank">Code</a>
 
+:two: fetch() API in JS - <a href="https://github.com/shindesharad71/Ubuntu-Daily" target="_blank">Code</a>
+
 <br>
 
 ###### Resources & Information Added From Wikipedia.
