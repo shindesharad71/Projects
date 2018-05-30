@@ -16,7 +16,7 @@
 8.  [HTML5 & CSS3](#8-html5-css3)
 9.  [Others](#9-others)
 10. [Python](#10-python)
-11. [Flutter](#11-Flutter)
+11. [Flutter](#11-flutter)
 12. [React Native](#12-react-native)
 
 # Let's Start!
@@ -197,6 +197,16 @@ Flutter is an open-source mobile application development SDK created by Google. 
 :one: Hello Flutter - <a href="https://github.com/shindesharad71/Hello-Flutter" target="_blank">Code</a>
 
 :two: GoT Info Flutter App - <a href="https://github.com/shindesharad71/GoT-Info-With-Flutter" target="_blank">Code</a>
+
+<br>
+
+## <a id="12-react-native" href="#12-react-native"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/react-native.png?raw=true" width="40" hieght="40" alt="logo"/></a> 12. React Native
+
+React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.
+
+### :octocat: `React Native Projects`
+
+:one: Awesome Places React Native App - <a href="https://github.com/shindesharad71/Awesome-Places-React-Native-App" target="_blank">Code</a>
 
 <br>
 
