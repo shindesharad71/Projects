@@ -15,7 +15,7 @@
 7.  [BootSrtap](#7-bootstrap)
 8.  [HTML5 & CSS3](#8-html5-css3)
 9.  [Others](#9-others)
-10. [Python](#10-Python)
+10. [Python](#10-python)
 11. [Flutter](#11-Flutter)
 12. [React Native](#12-react-native)
 
@@ -185,6 +185,18 @@ Python features a dynamic type system and automatic memory management. It suppor
 ### :octocat: `Python Projects`
 
 :one: Learn Python The Hard Way! - <a href="https://github.com/shindesharad71/Learn-Python-The-Hard-Way" target="_blank">Code</a>
+
+<br>
+
+## <a id="11-flutter" href="#11-flutter"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/flutter.png?raw=true" width="40" hieght="40" alt="logo"/></a> 11. Flutter
+
+Flutter is an open-source mobile application development SDK created by Google. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications for Google Fuchsia.
+
+### :octocat: `Flutter Projects`
+
+:one: Hello Flutter - <a href="https://github.com/shindesharad71/Hello-Flutter" target="_blank">Code</a>
+
+:two: GoT Info Flutter App - <a href="https://github.com/shindesharad71/GoT-Info-With-Flutter" target="_blank">Code</a>
 
 <br>
 
